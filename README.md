@@ -1,1 +1,1 @@
-# Running-Cycling-Map-App-JS
+# Running/cycling map that uses geolocation and the Leaflet API.
